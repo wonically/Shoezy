@@ -1,0 +1,9 @@
+{
+  "short_name": "Shoezy",
+  "name": "Shoezy - Leather Shoe Shop Administration Service",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#f8dfd3"
+}
